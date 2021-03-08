@@ -1,0 +1,4 @@
+tensorflow
+gym
+imageio
+keyboard
